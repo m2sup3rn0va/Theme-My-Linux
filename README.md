@@ -26,8 +26,6 @@
 
 ## **Theme My Linux**
 
----
-
 * We got you covered :
   * Complete Distro Upgrade
   * Installing apps :
