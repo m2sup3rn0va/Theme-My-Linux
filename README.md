@@ -15,6 +15,7 @@
 - [**Installing - Gnome Terminal Color Profiles**](#installing---gnome-terminal-color-profiles)
 - [**Installing - Boot Animation**](#installing---boot-animation)
 - [**Installing - Login Themes**](#installing---login-themes)
+- [**Downloads**](#downloads)
 
 ---
 
