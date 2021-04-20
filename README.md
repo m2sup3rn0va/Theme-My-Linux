@@ -32,7 +32,6 @@
   * Installing apps :
     * `lolcat` : Call rainbow with gradience on console output 🥰🥰🥰
     * `exa` : Replacement for `ls`
-    * `sshfs` : Remote mounting drive while on `SSH`
     * `python3-pip` : Python3 `pip` installation
     * `bat` : Replacement for `cat`
     * `snapd` : `SNAP` flatpack installation
@@ -45,7 +44,6 @@
     * `procs` : Replacement for `ps`
   * Installing `pip` libraries :
     * `rich` : color library for python
-    * `paramiko` : `SSH` library for python
   * Script to apt update in `/usr/bin`. Just type `apt-update` to update the apt and upgrade the distro
   * Copies my favourite `themes`, `icons` and `gnome-shell-extensions`
   * Installing `zsh` and `oh-my-zsh` with its plugins and themes
